@@ -1,4 +1,4 @@
- [![MasterHead](https://www.pinterest.com/pin/1105844883475668300/)
+ [![MasterHead](https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages.png?v=1619126283)
 <h1 align="center">Hi 👋, I'm EltacMaharramli</h1>
 <h3 align="center">A passionate Flutter developer and Front End developer</h3>
 
