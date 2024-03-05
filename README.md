@@ -1,4 +1,4 @@
- ![MasterHead](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Coding-Questions--Thumbnails_1200x558.png)
+ ![MasterHead](https://i.pinimg.com/originals/40/bf/50/40bf5022f099e7030c11e17e50f4b3da.png)
 <h1 align="center">Hi 👋, I'm EltacMaharramli</h1>
 <h3 align="center">A passionate Flutter developer and Front End developer</h3>
 
